@@ -1,0 +1,51 @@
+@media screen and (min-width: 768px) {
+    .container {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+header {
+    margin-top: 2%;
+}
+
+.header-row {
+    border-bottom: solid 1px #eee;
+    margin-bottom: 2%;
+}
+
+.brand {
+    color: #ff530d;
+    font-size: 36px;
+    top: 10px;
+}
+
+h1, h3 {
+    font-family: 'Baloo Bhai', cursive;
+}
+
+h1 {
+    font-size: 2.3em;
+}
+
+.feature-title {
+    color: #ff530d;
+    padding-top: 10px;
+    padding-bottom: 0;
+    font-size: 1.2em;
+    font-family: 'Arvo', serif;
+}
+
+.link-udacity {
+    font-family: 'Arvo', serif;
+    color: #5e1f05;
+    font-size: 1.2em;
+}
+
+.link-udacity:hover, .link-udacity:focus {
+    color: #5e1f05;
+}
+
+img:hover {
+    opacity: 0.6;
+}
