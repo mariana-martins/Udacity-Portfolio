@@ -20,8 +20,9 @@ header {
     top: 10px;
 }
 
-h1, h3 {
-    font-family: 'Baloo Bhai', cursive;
+h1,
+h3 {
+    font-family: "Baloo Bhai", cursive;
 }
 
 h1 {
@@ -33,16 +34,17 @@ h1 {
     padding-top: 10px;
     padding-bottom: 0;
     font-size: 1.2em;
-    font-family: 'Arvo', serif;
+    font-family: "Arvo", serif;
 }
 
 .link-udacity {
-    font-family: 'Arvo', serif;
+    font-family: "Arvo", serif;
     color: #5e1f05;
     font-size: 1.2em;
 }
 
-.link-udacity:hover, .link-udacity:focus {
+.link-udacity:hover,
+.link-udacity:focus {
     color: #5e1f05;
 }
 
